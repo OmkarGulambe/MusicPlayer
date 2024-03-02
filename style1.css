@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 50px;
+    width: 100vw;
+    background: rgb(143, 137, 126);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+}
